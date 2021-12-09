@@ -1,16 +1,16 @@
 
-# Desafio Machine Learning
+# *Desafio Machine Learning*
 
-Parte 1 - Projeto de aprendizagem de máquina para prever o consumo de combustível de veículos.
+*Parte 1* - Projeto de aprendizagem de máquina para prever o consumo de combustível de veículos.
 
--> Auto MPG Data Set - Problema de regressão
+-> *Auto MPG Data Set* - Problema de regressão
 
 Informação do conjunto de dados:
 Os dados dizem respeito ao consumo de combustível na cidade em milhas por galão, são três atributos discretos com vários valores e cinco atributos contínuos.
 
-Informação dos Atributos:
+*Informação dos Atributos*:
 
-1. mpg: contínuo
+1. MPG: contínuo
 2. cilindros: discreto multivalorado
 3. deslocamento: contínuo
 4. cavalos de força: contínuo
@@ -37,14 +37,14 @@ Foi testado também os modelos de floresta aleatória e SVM com os mesmos dados 
 Ao avaliar todos os modelos usando o método de validação cruzada, percebeu-se que o modelo floresta aleatória foi o que obteve melhor performance entre os modelos. Foi realizado o ajuste de hiper parâmetro no modelo floresta aleatória por ter sido o que obteve o melhor rendimento. Depois de comprovar o funcionamento dos métodos, foi realizada a avaliação de todo o sistema com os dados de teste. O modelo será capaz de prever o MPG ou a eficiência de combustível de veículos com um erro quadrático médio de 3.0682.
 
 
-# Algoritmos 
+## *Algoritmos* 
 
 <li>Regressão linear
 <li>Árvore de decisão 
 <li>Floresta aleatória 
 <li>SVM
 
-  # Bibliotecas 
+  ## *Bibliotecas* 
 
 <li> pandas 1.3.4
 <li> matplotlib 3.4.3
@@ -55,7 +55,7 @@ Ao avaliar todos os modelos usando o método de validação cruzada, percebeu-se
  
  
  
- # Bibliografias
+ ## *Bibliografias*
  
 <li>  https://www.freecodecamp.org/news/end-to-end-machine-learning-project-turorial/
 <li>  https://pt.wikipedia.org/wiki/Conjunto_de_dados_flor_Iris
