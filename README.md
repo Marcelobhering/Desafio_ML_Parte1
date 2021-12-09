@@ -1,8 +1,7 @@
 
 # Desafio Machine Learning
 
-
-# Parte 1 - Projeto de aprendizagem de máquina para prever o consumo de combustível de veículos.
+Parte 1 - Projeto de aprendizagem de máquina para prever o consumo de combustível de veículos.
 
 -> Auto MPG Data Set - Problema de regressão
 
