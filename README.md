@@ -69,3 +69,4 @@ Ao avaliar todos os modelos usando o método de validação cruzada, percebeu-se
 <li>  https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html
 <li>  https://seaborn.pydata.org/examples/scatterplot_matrix.html
 <li>  https://pt.stackoverflow.com/
+<li>  https://docs.python.org/pt-br/3/library/venv.html
