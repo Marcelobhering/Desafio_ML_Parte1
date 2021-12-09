@@ -14,7 +14,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.compose import ColumnTransformer
 
 
-
+#Funções
 
 
 def preprocess_origin_cols(df):
