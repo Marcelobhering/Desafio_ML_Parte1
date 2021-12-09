@@ -38,9 +38,34 @@ Foi testado também os modelos de floresta aleatória e SVM com os mesmos dados 
 Ao avaliar todos os modelos usando o método de validação cruzada, percebeu-se que o modelo floresta aleatória foi o que obteve melhor performance entre os modelos. Foi realizado o ajuste de hiper parâmetro no modelo floresta aleatória por ter sido o que obteve o melhor rendimento. Depois de comprovar o funcionamento dos métodos, foi realizada a avaliação de todo o sistema com os dados de teste. O modelo será capaz de prever o MPG ou a eficiência de combustível de veículos com um erro quadrático médio de 3.0682.
 
 
-# Algoritmos para parte 1
+# Algoritmos 
 
 <li>Regressão linear
 <li>Árvore de decisão 
 <li>Floresta aleatória 
 <li>SVM
+
+  # Bibliotecas parte1
+
+<li> pandas 1.3.4
+<li> matplotlib 3.4.3
+<li> seaborn 0.11.2
+<li> scikit-learn 1.0.1
+<li> numpy 1.21.4
+<li> matplotlib 3.5
+ 
+ 
+ 
+ # Bibliografias
+ 
+<li>  https://www.freecodecamp.org/news/end-to-end-machine-learning-project-turorial/
+<li>  https://pt.wikipedia.org/wiki/Conjunto_de_dados_flor_Iris
+<li>  https://awari.com.br/algoritmos-de-classificacao-uma-introducao/
+<li>  https://dadosaocubo.com/classificacao-com-scikit-learn/
+<li>  http://www.sakurai.dev.br/classificacao-iris/
+<li>  https://blog.geekhunter.com.br/aprendizado-de-maquina-e-seus-algoritmos/
+<li>  https://medium.com/@pedrofullstack/introdu%C3%A7%C3%A3o-ao-jupyter-notebook-para-python-b2cf79cea31d
+<li>  https://kenzie.com.br/blog/google-colab/
+<li>  https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html
+<li>  https://seaborn.pydata.org/examples/scatterplot_matrix.html
+<li>  https://pt.stackoverflow.com/
