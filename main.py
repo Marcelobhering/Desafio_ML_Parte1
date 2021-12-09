@@ -20,7 +20,7 @@ def predict():
 
 @app.route('/ping', methods=['GET'])
 def ping():
-    return "Pinging Model!!232"
+    return "Pinging Model!!!!"
 
     
     if __name__ == "__main__":
