@@ -44,7 +44,7 @@ Ao avaliar todos os modelos usando o método de validação cruzada, percebeu-se
 <li>Floresta aleatória 
 <li>SVM
 
-  # Bibliotecas parte1
+  # Bibliotecas 
 
 <li> pandas 1.3.4
 <li> matplotlib 3.4.3
