@@ -23,6 +23,4 @@ def ping():
     return "Pinging Model!!!!"
 
     
-    if __name__ == "__main__":
-        from waitress import server
-    serve(app, host="0.0.0.0", port=8080)
+   
