@@ -8,7 +8,7 @@
 Informação do conjunto de dados:
 Os dados dizem respeito ao consumo de combustível na cidade em milhas por galão, são três atributos discretos com vários valores e cinco atributos contínuos.
 
-*Informação dos Atributos*:
+*Informações dos Atributos*:
 
 1. MPG: contínuo
 2. cilindros: discreto multivalorado
